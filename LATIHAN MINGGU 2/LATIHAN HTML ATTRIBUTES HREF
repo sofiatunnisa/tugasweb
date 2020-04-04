@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The href Attribute</h2>
+<p>Tautan HTML didefinisikan dengan sebuah tag. Alamat tautan ditentukan dalam atribut href sebagai berikut:</p>
+
+<a href="https://www.w3schools.com">This is a link</a>
+
+</body>
+</html>

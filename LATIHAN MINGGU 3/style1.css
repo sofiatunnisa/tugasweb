@@ -1,0 +1,12 @@
+h1 {
+	color: blue ;
+	font-family: Arial;
+	font-size: 100px; 
+}
+p {
+	color: white;
+}
+body{
+	background-color: lightgrey;
+	background-image: url("r_atr-header-main.jpg");
+}

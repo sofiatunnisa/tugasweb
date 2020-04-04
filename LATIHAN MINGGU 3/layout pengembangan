@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Latihan Box Model</title>
+	<link rel="stylesheet" href="stylee.css">
+</head>
+<body>
+
+	<div class="container">
+		<div class="header">
+			<h1 class="judul">MY WEBSITE</h1>
+			<hr>
+			<hr color ="salmon">
+			<hr>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Products</a></li>
+				<li><a href="#">Services</a></li>
+				<li><a href="#">Contact</a></li>
+				<li><a href="#">Posting</a></li>
+			</ul>
+		</div>
+		<div>
+			<img src="bintang.jpg" width="700px" height="250px" style="display: block; margin: auto;">
+			<div class="content">
+				<hr>
+				<hr color ="salmon">
+				<hr>
+				<h2>Judul Artikel</h2>
+				<p class="penulis">Created by <a href="#">Sofiatun Nisa</a>. 7 Maret 2020</p>
+
+				<p>Bintang adalah merupakan benda langit yang memancarkan cahayanya sendiri. Menurut ilmu astronomi, definisi bintang adalah semua benda massif (bermassa antara 0,08 hingga 200 kali massa matahari) yang sedang atau pernah melakukan pembangkitan energi melalui fusi nuklir. Oleh sebab itu bintang katai putih dan bintang neutron yang sudah tidak memancarkan cahaya atau energi tetap disebut sebagai bintang. Bintang terdekat dengan Bumi adalah Matahari pada jarak sekitar 149,680,000 kilometer, diikuti oleh Proxima Centauri dalam rasi bintang Centaurus berjarak sekitar empat tahun cahaya.</p>
+
+				<p>Bintang merupakan benda langit yang memancarkan cahaya. Terdapat bintang semu dan bintang nyata. Bintang semu adalah bintang yang tidak menghasilkan cahaya sendiri, tetapi memantulkan cahaya yang diterima dari bintang lain. Bintang nyata adalah bintang yang menghasilkan cahaya sendiri. Secara umum sebutan bintang adalah objek luar angkasa yang menghasilkan cahaya sendiri (bintang nyata).</p>
+
+
+				<p><h3>Karakteristik Bintang</h3>
+				Diameter Cakram sebagian besar bintang terlalu kecil diameter sudutnya untuk dapat diamati dengan teleskop optis bumi yang ada saat ini, sehingga dibutuhkan teleskop interferometer untuk menghasilkan citra sebuah bintang. Ukuran bintang sangat beragam, mulai dari bintang neutron, yang hanya berdiameter antara 20 sampai 40 km, hingga bintang maharaksasa seperti Betelgeuse di rasi bintang Orion, yang berdiameter sekitar 650 kali diameter matahari atau sekitar 900 juta km. Namun Betelgeuse memiliki kepadatan yang jauh lebih rendah dari matahari.
+				Massa Salah satu bintang paling masif yang diketahui adalah Eta Carinae.Dengan massa hingga 100–150 kali massa matahari, bintang ini pun memiliki jangka hidup yang hanya beberapa juta tahun. Penelitian terhadap gugus Arches menunjukkan bahwa batas tertinggi massa bintang dalam era sekarang alam semesta adalah 150 kali massa matahari. Alasan untuk batas ini belum diketahui secara pasti, tapi sebagiannya disebabkan oleh luminositas Eddington, yaitu jumlah maksimal luminositas yang dapat melewati atmosfer bintang tanpa harus melontarkan gas ke ruang angkasa. Besar gravitasi permukaan sebuah bintang ditentukan oleh diameter dan massanya. Bintang-bintang raksasa memiliki gravitasi permukaan yang jauh lebih rendah dari bintang-bintang deret utama, sementara kebalikannya untuk bintang-bintang kompak seperti katai putih. Gravitasi permukaan mempengaruhi tampilan spektrum sebuah bintang, dengan gravitasi yang lebih tinggi menyebabkan pelebaran garis serapan.
+				 
+				Medan magnet sebuah bintang dihasilkan di bagian dalam bintang tempat sirkulasi konveksi terjadi. Gerakan plasma konduktif ini berfungsi seperti dinamo, menghasilkan medan magnet yang meliputi seluruh bintang. Kuatnya medan magnet sebuah bintang bergantung pada massa dan kandungan bintang tersebut, dan jumlah aktivitas magnet permukaan bintang bergantung pada kecepatan rotasi bintang.
+				Kinematika, Gerak relatif sebuah bintang terhadap matahari dapat memberikan informasi penting mengenai asal mula dan umur bintang tersebut, bahkan juga mengenai struktur dan evolusi galaksi di sekitarnya. Komponen gerak sebuah bintang terdiri atas kecepatan radialnya menuju atau menjauhi matahari, dan pergeseran melintangnya yang disebut gerak diri.
+				Komposisi Kimia, Saat terbentuk, bintang-bintang di galaksi Bima Sakti massanya terdiri dari sekitar 71% hidrogen dan 27% helium, dan sisanya sedikit unsur-unsur yang lebih berat. Bintang dengan kandungan besi terendah yang pernah diukur adalah bintang katai HE1327-2326, dengan kandungan besi hanya 1/200.000 dari kandungan besi matahari. Sebaliknya, bintang kaya logam μLeonis, memiliki kandungan yang hampir dua kali lipat milik matahari, sedang bintang berplanet 14 Herculis, memiliki kandungan yang hampir tiga kali lipat milik matahari. Ada juga bintang yang komposisi kimianya ganjil, yang menunjukkan kelimpahan luar biasa unsur-unsur tertentu dalam spektrumnya; khususnya krom dan logam tanah jarang.
+			</p>
+			<p>SUMBER REFERENSI : <a href="id.wikipedia.org/wiki/Bintang">wikipedia.org/wiki/Bintang</a> </p>
+
+			</div>
+			<div class="footer">
+				<p class="copy">copyright 2020. Sofiatun Nisa</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

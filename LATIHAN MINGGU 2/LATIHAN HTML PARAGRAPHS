@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>
+Paragraf ini
+berisi banyak baris
+dalam kode sumber,
+tetapi browser
+abaikan saja.
+</p>
+
+<p>
+Paragraf ini
+berisi banyak ruang
+dalam kode sumber,
+tetapi browser
+abaikan saja.
+</p>
+
+<p>
+Jumlah baris dalam paragraf tergantung pada ukuran jendela browser. Jika Anda mengubah ukuran jendela browser, jumlah baris dalam paragraf ini akan berubah.</p>
+
+<hr>
+<p>HTML Line Breaks</p>
+<p>This is<br>a paragraph<br>with line breaks</p>
+
+<hr>
+<p>Tag awal mempertahankan spasi dan pemisah baris:</p>
+
+<pre>
+   My Bonnie lies over the ocean.
+
+   My Bonnie lies over the sea.
+
+   My Bonnie lies over the ocean.
+   
+   Oh, bring back my Bonnie to me.
+</pre>
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Layout CSS</title>
+	<style >
+	body {background-color: salmon;}
+	#wrap {background: white; width: 1000px; height: 600px; margin: auto;}	
+	#header {background: lightgrey; width: 1000px; height: 150px; margin: auto;}
+	#content {width: 1000px;}
+	#kiri {width: 700px; height: 400px; background: yellow; float: left;}
+	#kanan {width: 300px; height : 400px; background: green; float: left;}
+
+	</style>
+</head>
+<body>
+	<div id ="wrap">
+		<div id = "header">
+			<img src="r_atr-header-main.jpg" width="1000px" height="150px">	
+		</div>
+		<div id = "content">
+			<div id = "kiri">
+				<h1>YouTube</h1>
+				<p>YouTube adalah sebuah situs web berbagi video yang dibuat oleh tiga mantan karyawan PayPal pada Februari 2005. Situs web ini memungkinkan pengguna mengunggah, menonton, dan berbagi video.Perusahaan ini berkantor pusat di San Bruno, California, dan memakai teknologi Adobe Flash Video dan HTML5 untuk menampilkan berbagai macam konten video buatan pengguna/kreator, termasuk klip film, klip TV, dan video musik. Selain itu, konten amatir seperti blog video, video orisinal pendek, dan video pendidikan juga ada dalam situs ini.</p>
+
+				<p>Kebanyakan konten di YouTube diunggah oleh individu, meskipun perusahaan-perusahaan media seperti CBS, BBC, Vevo, Hulu, dan organisasi lain sudah mengunggah material mereka ke situs ini sebagai bagian dari program kemitraan YouTube.Pengguna tak terdaftar dapat menonton video, sementara pengguna terdaftar dapat mengunggah video dalam jumlah tak terbatas. Video-video yang dianggap berisi konten ofensif hanya bisa ditonton oleh pengguna terdaftar berusia 18 tahun atau lebih. Pada November 2006, YouTube, LLC dibeli oleh Google dengan nilai US$1,65 miliar dan resmi beroperasi sebagai anak perusahaan Google.</p>	
+
+
+			</div>
+			<div id = "kanan">
+			<img src="images (2).jpeg" width="300px" height="400px">		
+
+
+			</div>
+	
+		</div>
+	</div>
+</body>
+</html>

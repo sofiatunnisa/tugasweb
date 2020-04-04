@@ -1,0 +1,11 @@
+h1 {
+	font-family: arial,verdana,sans-serif;	 
+	font-size: 100px;
+	font-variant: small-caps;
+	font-style: italic;
+	line-height: 18px;
+	color: yellow;
+}
+p {
+	font-family: georgia,serif;
+}

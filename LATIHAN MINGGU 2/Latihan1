@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata Mahasiswa</title>
+    <style>
+     #wrap {background: lightgrey; width: 1000px; height: 600px; margin: auto;}
+     #wraptb {background: white; width: 700px; height: 250px; float: left;} 
+     #kiri {width: 200px; height: 400px; float: left;}
+     #kirikanan {width: 200px; height: 300px; float: left;}
+     #kanan {width: 300px; height : 400px; float: left;}  
+    </style>
+</head>
+<body>
+    <div id = "wrap" >
+            <div id = "kiri">
+                <h1><hr color = "lightgrey"></h1>
+                <img src="FIA.jpg" width="150px" height="250px" style="display: block; margin: auto;">
+            </div>
+                <div id = "content">
+                    <div class="bio">
+                        <h2>Biodata Mahasiswa</h2>
+                        <hr color = "red">
+                        <table>
+                            <tr>
+                                <td>Nama </td>
+                                <td>: Sofiatun Nisa</td>
+                            </tr>
+                            <tr>
+                                <td>Nim </td>
+                                <td>: A12.2018.06105</td>
+                            </tr>
+                            <tr>
+                                <td>Academic Advisor </td>
+                                <td>: Heru Pramono Hadi</td>
+                            </tr>
+                            <tr>
+                                <td>Status</td>
+                                <td>: Active</td>
+                            </tr>
+                            <tr>
+                                <td>Semarang Address</td>
+                                <td>: Jl. Nakula 1__</td>
+                            </tr>
+                            <tr>
+                                <td>Origin Address</td>
+                                <td>: Jl. Putussibau___</td>
+                            </tr>
+                            <tr>
+                                <td>Phone Number</td>
+                                <td>: 0822xxxx</td>
+                            </tr>
+                            <tr>
+                                <td>Email</td>
+                                <td>: sofiatunn14@gmail.com</td>
+                            </tr>
+                            <tr>
+                                <td>Agama</td>
+                                <td>: Islam</td>
+                            </tr>
+                        </table>
+                                <h5>KRS SCHEDULE</h5>
+                                    <div id="wraptb">
+                                    
+                                        <table border="3">
+                                            
+                                            <th bgcolor="lightblue">No</th>
+                                            <th bgcolor="lightblue">Course Code</th>
+                                            <th bgcolor="lightblue">Group</th>
+                                            <th bgcolor="lightblue">Course</th>
+                                            <th bgcolor="lightblue">SKS</th>
+                                            <th bgcolor="lightblue">Status</th>
+                                            <tr>
+                                                <td>1</td>
+                                                <td>A12.66401</td>
+                                                <td>A12.6401U</td>
+                                                <td>ANALISA DAN PERANCANGAN SISTEM INFORMASI II</td>
+                                                <td>4</td>
+                                                <td>B</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>2</td>
+                                                <td>A12.66403</td>
+                                                <td>A12.6401U</td>
+                                                <td>PEMROGRAMAN BERORIENTASI OBYEK</td>
+                                                <td>4</td>
+                                                <td>B</td>
+                                            </tr>
+                                            <tr>
+                                                <td>3</td>
+                                                <td>A12.66404</td>
+                                                <td>A12.6401U</td>
+                                                <td>PEMROGRAMAN WEB</td>
+                                                <td>4</td>
+                                                <td>B</td>
+                                            </tr>
+                                            <tr>
+                                                <td>4</td>
+                                                <td>A12.66405</td>
+                                                <td>A12.6401U</td>
+                                                <td>PROBABILITAS DAN STATISTIKA</td>
+                                                <td>3</td>
+                                                <td>B</td>
+                                            </tr>
+                                            <tr>
+                                                <td>5</td>
+                                                <td>A12.66602</td>
+                                                <td>A12.6605</td>
+                                                <td>IMPLEMENTASI DAN PENGUJIAN SISTEM</td>
+                                                <td>2</td>
+                                                <td>B</td>
+                                            </tr>
+                                            <tr>
+                                                <td>6</td>
+                                                <td>A12.66604</td>
+                                                <td>A12.6602</td>
+                                                <td>SISTEM PENDUKUNG KEPUTUSAN</td>
+                                                <td>2</td>
+                                                <td>B</td>
+                                            </tr>
+                                            <tr>
+                                                <td>7</td>
+                                                <td>A12.66702</td>
+                                                <td>A12.6601</td>
+                                                <td>MANAJEMEN PROYEK</td>
+                                                <td>3</td>
+                                                <td>B</td>
+                                            </tr>
+                                            <tr>
+                                                <td>8</td>
+                                                <td>U201701</td>
+                                                <td>A12.6401U</td>
+                                                <td>DASAR KEWIRAUSAHAAN</td>
+                                                <td>2</td>
+                                                <td>B</td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                    </div>
+                </div>
+        </div>
+        </body>
+</html>

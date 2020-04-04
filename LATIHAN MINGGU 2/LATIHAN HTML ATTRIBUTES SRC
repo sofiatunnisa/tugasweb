@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The src Attribute</h2>
+<p>Gambar HTML didefinisikan dengan tag img, dan nama file sumber gambar ditentukan dalam atribut src:</p>
+
+<img src="mahasiswi.jpg" width="250" height="300">
+
+</body>
+</html>

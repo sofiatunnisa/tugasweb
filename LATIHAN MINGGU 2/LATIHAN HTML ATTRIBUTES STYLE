@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The style Attribute</h2>
+<p>Atribut style digunakan untuk menentukan gaya suatu elemen, seperti warna:</p>
+
+<p style="color:yellow">This is a red paragraph.</p>
+
+</body>
+</html>
